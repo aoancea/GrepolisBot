@@ -1,0 +1,1 @@
+﻿http://stackoverflow.com/questions/25142594/allowing-javascript-to-run-on-a-windows-form-web-browser
